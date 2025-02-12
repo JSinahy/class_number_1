@@ -1,2 +1,2 @@
 # class_number_1
-First test 
+Este es mi primer repositorio. 
